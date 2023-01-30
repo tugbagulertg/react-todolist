@@ -7,7 +7,8 @@ function App() {
       <TodoApp />
       <footer className="info">
         <p>
-          Created by <a href="https://d12n.me/">Tuğba Güler</a>
+          Created by{" "}
+          <a href="https://www.linkedin.com/in/tugbagulerr/">Tuğba Güler</a>
         </p>
       </footer>
     </div>
